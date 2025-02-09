@@ -12,7 +12,7 @@
     <u><i>DATOS PERSONALES</i></u><br>
     
     <div align="left">
-        <img src="Yooo.JPG" alt="Ese soy yo" height="135" width="110">
+        <img src="Yooo.JPG" alt="Ese soy yo" height="135" width="105">
     </div>
     
     <b>Nombre: </b><i>Dilan Anibal Herrera García</i><br>
