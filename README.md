@@ -1,4 +1,3 @@
-l
 <html>
 <head>
     <title>Hoja de Vida</title>
@@ -13,7 +12,7 @@ l
     <u><i>DATOS PERSONALES</i></u><br>
     
     <div align="left">
-        <img src="Yoo.jpeg" alt="Ese soy yo" height="110" width="120">
+        <img src="Yooo.JPG" alt="Ese soy yo" height="110" width="120">
     </div>
     
     <b>Nombre: </b><i>Dilan Anibal Herrera García</i><br>
